@@ -4,7 +4,9 @@
 
 Businesses all over the world are growing every day. With the help of 
 technology, they have access to a wider market and hence, a large customer 
-base. Customer segmentation refers to categorizing customers into different 
+base. 
+
+Customer segmentation refers to categorizing customers into different 
 groups with similar characteristics.
 
 This project aims to identify major customer segments on a transnational data set for a UK-based online retail.
