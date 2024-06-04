@@ -17,7 +17,7 @@ In this project, your task is to identify major customer segments on a transnati
 
 ## The need of customer segmentation:
 
-The differences in customers' behaviour, demographics, geographies, etc. help in classifying them in groups. Learning about different groups in the customer can help with following:
+The differences in customer's behaviour, demographics, geographies, etc. help in classifying them in groups. Learning about different groups in the customer can help with following:
 
 * Target Marketing
 
