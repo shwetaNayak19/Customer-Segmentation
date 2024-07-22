@@ -9,6 +9,7 @@ base.
 Customer segmentation refers to categorizing customers into different 
 groups with similar characteristics.
 
+
 This project aims to identify major customer segments on a transnational data set for a UK-based online retail.
 
 ## Problem Description :
