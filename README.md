@@ -6,6 +6,7 @@ Businesses all over the world are growing every day. With the help of
 technology, they have access to a wider market and hence, a large customer 
 base. 
 
+
 Customer segmentation refers to categorizing customers into different 
 groups with similar characteristics.
 
@@ -78,3 +79,5 @@ Most of the customers purchase in the afternoon time. The 12th hour of the day i
 ● Customers are being segmented more deeply based on their physical location, as well as demographic and psychographic factors.
 
 ● Incorporating data from the company's Google Analytics account. Google Analytics is an excellent tool for tracking a variety of essential business data, including Customer Lifetime Value, Traffic Source/Medium, Pageviews perVisit, and Bounce Rate of a company's website, among others.
+
+
